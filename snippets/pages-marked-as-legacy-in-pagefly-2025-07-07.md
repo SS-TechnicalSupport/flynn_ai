@@ -1,0 +1,3 @@
+Title: Pages Marked as "Legacy" in PageFly
+Description: The user noticed that their PageFly pages are now marked as "legacy" and wants to understand why.
+Answer: PageFly has released a new editor called "Gen 2". The previous editor is now referred to as the "legacy" editor. While you can continue using the legacy editor indefinitely, new features will primarily be added to Gen 2. A tutorial on using the Gen 2 editor can be found here: https://www.youtube.com/watch?v=ACoThfVSBu4
