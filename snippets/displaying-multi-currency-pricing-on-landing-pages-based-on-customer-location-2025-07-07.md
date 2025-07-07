@@ -1,0 +1,3 @@
+Title: Displaying Multi-Currency Pricing on Landing Pages Based on Customer Location
+Description: The customer wants to know if PageFly can automatically display product pricing in different currencies based on the visitor's location (e.g., showing USD prices to visitors from the USA when the base price is set in AUD).
+Answer: Yes, PageFly supports multi-currency functionality. Please refer to the following tutorial for detailed instructions on how to set it up: https://www.youtube.com/watch?app=desktop&v=GYd8UBi5zag
