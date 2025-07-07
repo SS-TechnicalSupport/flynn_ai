@@ -1,0 +1,3 @@
+Title: RIVYO Star Rating Not Displaying in PageFly Section
+Description: The customer was unable to display the RIVYO star rating widget in a PageFly section.
+Answer: The issue was that the section was not created using the 'Product Detail' element in PageFly. To resolve this, create the section using the 'Product Detail' element so that the product assigned to the product detail will also be assigned to the widget. See this documentation for more information: https://help.pagefly.io/page-structure-and-elements/shopify-elements/product/shopify-elements-product-details. Also confirm the section is being added to a product page.
