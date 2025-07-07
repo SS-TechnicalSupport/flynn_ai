@@ -1,1 +1,1 @@
-Lưu trữ các Answer Snippets cảu Support bên bộ phận PageFly
+Lưu trữ các Answer Snippets của Support bên bộ phận PageFly
